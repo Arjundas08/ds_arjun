@@ -61,7 +61,7 @@ All charts are available inside the `/outputs/` folder.
 ---
 
 ##  Resources
--  [Colab Notebook (View Analysis)](https://colab.research.google.com/drive/1FuME5ur8VnO-KwVkdCiKY3599M89XSGR#scrollTo=SgcWO2oUDDOE) 
+-  [Colab Notebook (View Analysis)](https://colab.research.google.com/drive/1FuME5ur8VnO-KwVkdCiKY3599M89XSGR?usp=sharing) 
 -  [Bitcoin Fear & Greed Index Dataset](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)  
 -  [Historical Trader Data](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 
