@@ -1,7 +1,7 @@
 #  Trader Behavior Insights – Market Sentiment vs Profitability
 
 **Author:** Dasari Arjun  
-**Role:** Junior Data Scientist – Trader Behavior Insights  
+**Role:** Data Science Student – Trader Behavior Insights  
 **Date:** November 2025  
 
 ---
